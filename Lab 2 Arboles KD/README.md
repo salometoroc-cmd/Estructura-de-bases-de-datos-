@@ -1,4 +1,7 @@
 El presente documento es la solución al problema dado en clase.
+versión 1 : en .ipynb se logran ver las gráficas 
+versión 2 : en .py pero no su desventaja es que no muestra la parte gráfica 
+
 
 Problema
 Eres parte de un equipo que desarrolla un sistema de logistica de entregas en una ciudad.
