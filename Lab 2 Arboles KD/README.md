@@ -1,4 +1,4 @@
-El presente documento  es la solcuion al problema dado en clase.
+El presente documento es la solución al problema dado en clase.
 
 Problema
 Eres parte de un equipo que desarrolla un sistema de logistica de entregas en una ciudad.
@@ -13,17 +13,17 @@ Objetivo: Implementar un Arbol-KD desde cero, y comparar con fuerza bruta.
 
 Contenido del documento :
 
-sección 1 : Implementación del arbol 
-Presenta una breve explicacón y construccion a partir de puntos en 2D 
+sección 1 : Implementación del árbol 
+Presenta una breve explicacón y construcción a partir de puntos en 2D 
 
 sección 2 : Test 
-- Explicacón fuerza bruta y aplicación 
-- Grafica de buscar  radio 
-- Gáfica de vecino cercano
+- Explicación fuerza bruta y aplicación 
+- Gráfica de buscar  radio 
+- Gráfica de vecino cercano
 - tiempos de comparación
 
-Sección 3 : Analisis de resultados 
-- ExplicacIón 
+Sección 3 : Análisis de resultados 
+- Explicación 
 - Dificultades
 
 
